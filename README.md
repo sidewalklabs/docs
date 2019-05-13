@@ -10,5 +10,9 @@ See:
 - [CommonSpace](/commonspace)
   - [Terms of Use](/commonspace/terms-of-use.md)
   - [Privacy Policy](/commonspace/privacy-policy.md)
+- [Collab](/collab)
+  - [Terms of Use](/collab/terms-of-use.md)
+  - [Privacy Policy](/collab/privacy-policy.md)
+  - [RDUA](/collab/rdua.md)
 
 [browse]: https://github.com/sidewalklabs/docs/commits/master
