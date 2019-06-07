@@ -1,4 +1,4 @@
-# Responsible Data Use Assessment for Collab
+# Responsible Data Use Assessment for Collab Summary
 
 **Overview of the Prototype:**
 
