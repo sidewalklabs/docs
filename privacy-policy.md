@@ -1,7 +1,7 @@
-# SIDEWALK LABS AND SIDEWALK TORONTO PRIVACY POLICY
+# SIDEWALK LABS PRIVACY POLICY
 
 
-This Privacy Policy explains how your personal information is collected and used by Sidewalk Toronto Limited Partnership (“Sidewalk Toronto”), or by Sidewalk Labs LLC, and their respective controlled subsidiaries or affiliates (together, “Sidewalk Labs,” “we”, “our”, or “us”) when you visit our websites or use our services (including services provided on our websites and our mobile apps), or when you interact with Sidewalk Toronto directly or through our contractors.
+This Privacy Policy explains how your personal information is collected and used by Sidewalk Labs LLC, and its respective controlled subsidiaries or affiliates (together, “Sidewalk Labs,” “we”, “our”, or “us”) when you visit our websites or use our services (including services provided on our websites and our mobile apps), or when you interact with Sidewalk Labs directly or through our contractors.
 
 If you are a California resident, please see the “[Information for California Consumers](#information-for-california-consumers)” section below.
 
@@ -11,7 +11,7 @@ If you are a California resident, please see the “[Information for California 
 
 ### Information You Provide to Us
 
-We collect personal information that you provide directly to us, including through our websites and services or when you contact us with respect to our programs or initiatives. This may include your name, email address, phone number, online profile, demographic information, your opinions and preferences, resume and other job application information, and any other information you choose to provide.
+We collect personal information that you provide directly to us, including through our websites and services or when you contact us with respect to our programs or initiatives. This may include your name, email address, phone number, other contact information, online profile, demographic information, your opinions and preferences, resume and other job application information, and any other information you choose to provide.
 
 
 ### Information We Collect Automatically
@@ -26,12 +26,12 @@ When you use our websites and services, we may automatically collect information
 
 ### Information Collected by Our Contractors
 
-We use contractors to provide us with services. When contractors are collecting personal information on behalf of Sidewalk, we put in place additional measures to limit the personal information provided by the contractor to Sidewalk Labs. For example, we may hire a survey company to carry out surveys on our behalf, and instruct the contractor to only provide us with aggregate, non-identifying information. In any case, we remain responsible for the personal information collected on our behalf.
+We use contractors to provide us with services. When contractors are collecting personal information on behalf of Sidewalk, we put in place additional measures to limit the personal information provided by the contractor to Sidewalk Labs. For example, we may hire a survey company to carry out surveys on our behalf, and instruct the contractor to only provide us with aggregate, non-identifying information.
 
 
 ### Analytics Services Provided by Others
 
-In connection with the use of our websites and services, we may allow others to provide analytics services, such as Google Analytics. These entities may use cookies, web beacons, and other technologies to collect information about your use of our websites and services and other websites and online services, including your IP address, web browser, device, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content and better understand your online activity. More information about Google Analytics and Privacy is available here: <https://support.google.com/analytics/answer/6004245?hl=en>.
+In connection with the use of our websites and services, we may allow others to provide analytics services, such as Google Analytics. These entities may use cookies, web beacons, and other technologies to collect information about your use of our websites and services and other websites and online services, including your IP address, web browser, device, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content and better understand your online activity. More information about Google Analytics and Privacy is available [here](https://support.google.com/analytics/answer/6004245?hl=en).
 
 
 ## Use of Information
@@ -46,7 +46,7 @@ We may use your information to:
 *   Respond to your comments, questions or requests;
 *   Communicate with you about news and information we think will be of interest to you;
 *   Monitor and analyze trends, usage, and activities in connection with the use of our websites and services; and
-*   Administer the security of our website and services and to protect other users, the public, Sidewalk Labs, and Sidewalk Toronto.
+*   Administer the security of our website and services and to protect other users, the public, and Sidewalk Labs.
 *   We may also use your personal information as otherwise permitted or as required by law. We will ask for your consent before using your personal information for a purpose not covered in this Privacy Policy. We will retain your personal information for as long as necessary to fulfill the purposes for which it was collected and as required by law.
 *   When we solicit information, such as in connection with employment opportunities or community engagement, we will provide information to you at the time about the purposes for which information is being collected, used or disclosed.
 
@@ -60,7 +60,7 @@ We do not disclose your personal information to third parties unless we have you
 
 ### Transfer of Information to Other Countries
 
-Your personal information and other information may be held outside of Canada, where it will be subject to foreign laws, when there is a justifiable reason to do so. We require guarantees from our partners that it will be kept safe. For written information about our policies and practices regarding contractors and information held outside of Canada, contact our Privacy Officer at [privacy@sidewalklabs.com](mailto:privacy@sidewalklabs.com).
+Your personal information and other information may be held outside of the jurisdiction of your residence or where you use Sidewalk Labs’ websites and services, where it will be subject to foreign laws. To the extent that EU data protection legislation applies to the transfer of your personal information, including transfers of personal information to countries outside of the  European Economic Area, such transfers will only be conducted in accordance with EU data protection legislation.
 
 
 ### Your Access and Correction Rights
@@ -72,10 +72,7 @@ You can request access to your personal information by contacting [privacy@sidew
 
 If you have any questions about this Privacy Policy, please contact us at: [privacy@sidewalklabs.com](mailto:privacy@sidewalklabs.com).
 
-Sidewalk Labs, 307 Lake Shore Boulevard East, Toronto, ON M5A 1C1, Canada
-
 Sidewalk Labs, 10 Hudson Yards, 26th Floor New York, NY, 10001
-
 
 ## Information for California Consumers
 
